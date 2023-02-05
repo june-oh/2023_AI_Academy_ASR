@@ -11,7 +11,10 @@
 
 > 딥러닝을 이용한식음성인식 기초 실습
 
-
+### 0. 튜토리얼
+- python,numpy,matplotlib tutorial 
+- 
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/0_python_%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> 
 
 
 ## Libraries
