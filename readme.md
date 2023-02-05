@@ -20,3 +20,5 @@
 - `TorchAudio` : [pytorch/audio](https://github.com/pytorch/audio) 
 - `NumPy` : [numpy/numpy](https://github.com/numpy/numpy)
 - `matplotlib` :[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
+- `Whisper` : [openai/whisper](https://github.com/openai/whisper)
+- `gradio` : [gradio-app/gradio](https://github.com/gradio-app/gradio)
