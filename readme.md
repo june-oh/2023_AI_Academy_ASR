@@ -17,4 +17,6 @@
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
 - `NeMo` : [Nvidia/NeMo](https://github.com/NVIDIA/NeMo)
-- `torchaudio` : [pytorch/audio](https://github.com/pytorch/audio) 
+- `TorchAudio` : [pytorch/audio](https://github.com/pytorch/audio) 
+- `NumPy` : [numpy/numpy](https://github.com/numpy/numpy)
+- `matplotlib` :[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
