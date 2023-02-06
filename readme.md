@@ -17,6 +17,12 @@ python,numpy,matplotlib tutorial
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/0_tutorial.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
+### 1. Audio file handling
+using torchaudio
+
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/1_Audio_file_handling_using_torchaudio.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>"
+
+
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
 - `NeMo` : [Nvidia/NeMo](https://github.com/NVIDIA/NeMo)
