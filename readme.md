@@ -22,6 +22,10 @@ using torchaudio
 
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/1_Audio_file_handling_using_torchaudio.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### 3. Audio Classification using MLP
+
+### 4. CTC
+
 
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
