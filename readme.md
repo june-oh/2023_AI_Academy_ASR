@@ -28,6 +28,7 @@ using torchaudio
 
 ### 5. Whisper
 
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/5_whisper.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
