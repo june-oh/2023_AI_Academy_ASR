@@ -26,6 +26,8 @@ using torchaudio
 
 ### 4. CTC
 
+### 5. Whisper
+
 
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
