@@ -12,23 +12,46 @@
 > 딥러닝을 이용한식음성인식 기초 실습
 
 ### 0. 튜토리얼
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/0_tutorial.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 python,numpy,matplotlib tutorial 
 
-<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/0_tutorial.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 
 ### 1. Audio file handling
-using torchaudio
-
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/1_Audio_file_handling_using_torchaudio.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+Audio file handling using torchaudio
+- Load audio file(torchaudio.load)
+- Feature extraction(Mel-spectrogram, MFCC)
+
 ### 3. Audio Classification using MLP
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/3_Audio_Classification_using_MLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Audio MNIST classification using MLP(torch.Linear)
 
 ### 4. CTC
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/4_CTC.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Simple Exercise(model training using CTC loss) for Connectionist Temoral Classification 
 
 ### 5. Whisper
-
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/5_whisper.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Exercise using OpenAI - Whisper and Gradio
+
+### 6. E2E ASR model finetune with Nemo
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/6_nemo_finetuning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Quartznet Model finetune with Nemo(English to Korean)
+
+### 7. WFST 
+Exercise for WFST using k2
+<a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/7_WFST.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- C,L,G transducer
+- composition, determinization
 
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
