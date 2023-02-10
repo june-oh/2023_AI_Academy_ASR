@@ -11,13 +11,13 @@
 
 > 딥러닝을 이용한식음성인식 기초 실습
 
-### 0. 튜토리얼
+### 0. Tutorial
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/0_tutorial.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-python,numpy,matplotlib tutorial 
-
-
-
+Tutorial for python and data science packages
+- python review
+- numpy
+- matplotlib
 
 ### 1. Audio file handling
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/1_Audio_file_handling_using_torchaudio.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
