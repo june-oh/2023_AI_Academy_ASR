@@ -44,7 +44,7 @@ Exercise using OpenAI - Whisper and Gradio
 ### 6. E2E ASR model finetune with Nemo
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/6_nemo_finetuning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-- Quartznet Model finetune with Nemo(English to Korean)
+Quartznet Model finetune with Nemo(English to Korean)
 
 ### 7. WFST 
 Exercise for WFST using k2
