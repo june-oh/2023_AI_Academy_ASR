@@ -47,9 +47,9 @@ Exercise using OpenAI - Whisper and Gradio
 Quartznet Model finetune with Nemo(English to Korean)
 
 ### 7. WFST 
-Exercise for WFST using k2
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/7_WFST.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+Exercise for WFST using k2
 - C,L,G transducer
 - composition, determinization
 
