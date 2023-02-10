@@ -34,7 +34,7 @@ Audio MNIST classification using MLP(torch.Linear)
 ### 4. CTC
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/4_CTC.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Simple Exercise(model training using CTC loss) for Connectionist Temoral Classification 
+Simple Exercise(model training using CTC loss) for Connectionist Temporal Classification 
 
 ### 5. Whisper
 <a href="https://colab.research.google.com/github/june-oh/2023_AI_Academy_ASR/blob/main/5_whisper.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
